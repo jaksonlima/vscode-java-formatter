@@ -1,6 +1,6 @@
 # vscode-java-formatter
 
-# https://github.com/redhat-developer/vscode-java/wiki/Formatter-settings
+## https://github.com/redhat-developer/vscode-java/wiki/Formatter-settings
 
 # Formatter settings
 

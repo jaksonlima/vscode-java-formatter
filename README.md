@@ -16,7 +16,7 @@ Você também pode definir as preferências de formatação no seu projeto .sett
 
 Como isso é entediante, a melhor maneira de editar essas preferências é abrir seu projeto no Eclipse e definir as preferências de formatação para o seu projeto.
 
-Em Eclipse, clique com botão direito em seu projeto, aberto Properties> Java Code Style> Formattere criar um novo perfil de formatação: captura de tela 24/08/2017 às 2 41 36 pm
+Em Eclipse, clique com botão direito em seu projeto, aberto Properties> Java Code Style> Formattere criar um novo perfil de formatação: 
 
 Depois de salvá-lo, .settings/org.eclipse.jdt.core.prefsserá atualizado. Esse arquivo precisará ser copiado para todos os seus outros projetos no mesmo espaço de trabalho.
 
